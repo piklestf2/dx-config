@@ -1,0 +1,1 @@
+/usr/bin/xrandr --output eDP-1 --gamma 2.1:2.1:2.1 ; %command% ; /usr/bin/bash /home/user/.xcalib.sh
